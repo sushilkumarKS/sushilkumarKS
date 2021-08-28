@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CREO
 - 🤔 I’m looking for help with CATIA projects
 - 💬 Ping me 9840228028
-- 📫 How to reach me: sushilsampath@gmail.com
+- 📫 How to reach me: sushilkumarks4316@gmail.com
 <!--
 **sushilkumarKS/sushilkumarKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
